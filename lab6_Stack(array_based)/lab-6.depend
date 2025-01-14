@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1735705779 source:c:\users\sharif\desktop\c++\lab-6\main.cpp
+	<iostream>
+	"stacktype.h"
+
+1735705785 c:\users\sharif\desktop\c++\lab-6\stacktype.h
+	<string>
+

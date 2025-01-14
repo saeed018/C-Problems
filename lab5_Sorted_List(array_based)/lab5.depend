@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1735531364 source:c:\users\sharif\desktop\c++\lab5\main.cpp
+	<iostream>
+	"sortedtype.h"
+	"time.h"
+
+1735327084 c:\users\sharif\desktop\c++\lab5\sortedtype.h
+
+1735574748 c:\users\sharif\desktop\c++\lab5\time.h
+
